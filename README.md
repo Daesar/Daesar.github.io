@@ -1,2 +1,2 @@
 # Daesar.github.io
-Daesar/s personal blog.
+Daesar's personal blog.
